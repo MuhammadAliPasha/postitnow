@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow
+END
+Sql.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Sql.java
+END
+ComposeReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/ComposeReply.java
+END
+Postit.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Postit.java
+END
+PostitAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/PostitAdapter.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Database.java
+END
+Md5.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Md5.java
+END
+Compose.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Compose.java
+END
+Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Display.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Server.java
+END
+Home.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Home.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Login.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Location.java
+END
+Reply.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/Reply.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/a/eclipselabs.org/postitnow-android/!svn/ver/5/trunk/src/com/keg/postitnow/User.java
+END

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Login!</string>
+    <string name="app_name">Postit</string>
+    <string name="ok">Ok</string>
+    <string name="authentification_fail">Authentification failed, please try again</string>
+    <string name="network_problem">Network problem, please try again</string>
+    <string name="session_not_valid">Session no more valid. \n Please log in again</string>
+    <string name="json_error">Error JSON format</string>
+    <string name="menu">Menu</string>
+    <string name="comment">Comment</string>
+    <string name="delete">Delete</string>
+    <string name="no_mood">No mood selected</string>
+    <string name="location_not_sent">Could not send location</string>
+    <string name="message_sent">Message sent</string>
+    <string name="message_not_sent">Could not send message, try again</string>
+    <string name="sending">Message sending ...</string>
+</resources>
